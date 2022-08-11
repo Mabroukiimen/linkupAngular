@@ -40,12 +40,15 @@ header{
     background-color: #0079D3;
     border-color: #0079D3;
     color: aliceblue;
+
 }
 
 .sign-up:hover{
     opacity: 0.6;
 }
-
+.right{
+    margin-left: 70%;
+}
 .userdetails{    
     background-color: transparent;
     border-color: #0079D3;
